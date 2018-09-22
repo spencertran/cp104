@@ -15,7 +15,8 @@ __updated__ = "2018-09-18"
 show = input(str('What is your favourite TV show?'))
 food = input(str('What is your favourite food?'))
 
-print('I like to eat {} while watching {}.'.format(food,show))
+print('I like to eat {} while watching {}.'.format(food, show))
+
 
 def func():
     """
